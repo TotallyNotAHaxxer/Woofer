@@ -49,3 +49,45 @@ option 1
 this is the wifi monitoring and the acpturing of the BSSID's
 
 <h2>Fake AP's 
+ 
+
+```
+ 
+  _  _  _  _____   _____  _______ _______  ______
+ |  |  | |     | |     | |______ |______ |_____/
+ |__|__| |_____| |_____| |       |______ |    \_
+                                                
+    Wifi-Hacking and Discovery
+                            V 2.0
+                                 Scare_Sec_Hackers
+ ──────────────────────────────────────────────
+            __
+         __/o \_
+         \____  \
+             /   \
+       __   //\   \
+    __/o \-//--\   \_/
+    \____  ___  \  |
+         ||   \ |\ |
+        _||   _||_||
+
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+[+] ~~> Using IP    73.205.242.99
+[+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
+
+ ```

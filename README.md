@@ -12,7 +12,8 @@ ruby <br>
 sudo python3 main.py 
 
 
-` option 1 
+`option 1
+ _  _  _  _____   _____  _______ _______  ______
  |  |  | |     | |     | |______ |______ |_____/
  |__|__| |_____| |_____| |       |______ |    \_
                                                 
@@ -34,15 +35,18 @@ sudo python3 main.py
 +---------------------------------------------------------------------------------------------------+
 |                                                SSID dBm_Signal Channel                     Crypto |
 | BSSID                                                                                             |
-| de:34:26:74:d4:f4                                          -48       1  {WPA2/802.1X, WPA/802.1X} |
-| da:31:34:24:cc:c7                                          -65       1                 {WPA2/PSK} |
-| f8:35:dd:d3:d1:a0                    MOTOROLA-12D53        -88       1                 {WPA2/PSK} |
-| be:34:26:74:d4:f4                                          -50       1        {WPA2/PSK, WPA/PSK} |
-| 9c:34:26:74:d4:f4            Go Go Gadget Internet         -51       1                 {WPA2/PSK} |
-| 88:ef:16:ac:14:a9                          internet        -64       6                 {WPA2/PSK} |
-|       e6:bf:fa:b7:c2:5e                              -76       6                 {WPA2/PSK}       |
-| 84:61:a0:b7:46:a0                        ATT9d5w8q8        -75       6                 {WPA2/PSK} |
-| ca:3a:6b:ac:af:2a                                          -73       6                 {WPA2/PSK} |
-|            54:8c:a0:e4:ae:1f                    -72       6                 {WPA2/PSK}            |
+| ff:ff:ff:ff:ff:ff                                         -48       1  {WPA2/802.1X, WPA/802.1X} |
+| da:31:34ff:ff:ff                                          -65       1                 {WPA2/PSK} |
+| f8:35:dd:ff:ff:ff                     MOTOROLA-12D53      -88       1                 {WPA2/PSK} |
+| be:34:26:ff:ff:ff                                         -50       1        {WPA2/PSK, WPA/PSK} |
+| 9c:34:26:ff:ff:ff            Go Go int                    -51       1                 {WPA2/PSK} |
+| 88:ef:16:ff:ff:ff                          internet       -64       6                 {WPA2/PSK} |
+| e6:bf:ff:ff:ff                                            -76       6                 {WPA2/PSK}       |
+| 84:61:a0:ff:ff:ff                         ATT9d5w8q8      -75       6                 {WPA2/PSK} |
+| ca:3a:6b:ff:ff:ff                                         -73       6                 {WPA2/PSK} |
 
 `
+
+this is the wifi monitoring and the acpturing of the BSSID's
+
+<\h2> Fake AP's <\h2>

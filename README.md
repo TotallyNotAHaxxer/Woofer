@@ -5,14 +5,13 @@ uses
 aircrack suit<br>
 python3 <br>
 ruby <br>
-
-
-~~~~~~~~ EXAMPLES ~~~~~~~~~~~~~ 
+ 
 
 sudo python3 main.py 
 
 
-`option 1
+```
+option 1
  _  _  _  _____   _____  _______ _______  ______
  |  |  | |     | |     | |______ |______ |_____/
  |__|__| |_____| |_____| |       |______ |    \_
@@ -45,8 +44,8 @@ sudo python3 main.py
 | 84:61:a0:ff:ff:ff                         ATT9d5w8q8      -75       6                 {WPA2/PSK} |
 | ca:3a:6b:ff:ff:ff                                         -73       6                 {WPA2/PSK} |
 
-`
+```
 
 this is the wifi monitoring and the acpturing of the BSSID's
-```
+
 <\h2> Fake AP's <\h2>

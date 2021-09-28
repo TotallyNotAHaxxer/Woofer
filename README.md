@@ -71,23 +71,23 @@ this is the wifi monitoring and the acpturing of the BSSID's
          ||   \ |\ |
         _||   _||_||
 
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
-[+] ~~> Using IP    73.205.242.99
+[+] ~~> Using IP    1.1.1.1.1
 [+] ~~> Fake Beacon https://github.com/ArkAngeL43 USING ~~> mon0
 
  ```
